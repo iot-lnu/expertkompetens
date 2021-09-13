@@ -2,15 +2,18 @@
 
 https://lnu.se/utbildning/kompetensutveckling/smart-industri-digitalisering-it/tillampad-internet-of-things/
 
+### Overall planning.
+
 Start: 13/9
 Slut: 12/11
 9 Weeks in total.
 
-Staff:
-Fredrik Ahlgren
+### Staff:
+Fredrik Ahlgren, course administrator
 Hemant Ghayvat
-Christoffer Eid (TA)
-Mehdi (TA)
+Lars Håkansson
+Christoffer Eid (Kalmar, TA)
+Mehdi Saman Azari (Växjö, TA)
 
 ## Course plan.
 https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf
@@ -39,7 +42,6 @@ Week 2:
 Week 3:
 - Friday 1st October 14.00. Sensors and A/D-converters. Lars Håkansson.
     - https://lnu-se.zoom.us/j/5972044484
-
 Week 4:
 - Workshop 1: onsdag 6/10. 14-17. Växjö and Kalmar
 Week 5:
