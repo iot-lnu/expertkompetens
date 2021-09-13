@@ -11,7 +11,7 @@ Slut: 12/11
 
 #### Week 37:
 - Monday 13th September. 17.00. Course introduction.
-    - https://lnu-se.zoom.us/j/61061361955
+    - https://youtu.be/dogVmhTrzoA
 - Thursday 16th September. 15.15-17.00. Lecture. Getting started with HW and project. Fredrik. (live and recording)
   - https://lnu-se.zoom.us/j/66067236437
 #### Week 38:

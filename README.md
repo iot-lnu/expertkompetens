@@ -2,8 +2,9 @@
 
 https://lnu.se/utbildning/kompetensutveckling/smart-industri-digitalisering-it/tillampad-internet-of-things/
 
-[TOC]
 ---
+
+Recording of the course introduction (210913): https://youtu.be/dogVmhTrzoA
 
 ## Important links
 
