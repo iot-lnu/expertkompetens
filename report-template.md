@@ -88,7 +88,7 @@ Explain all material that is needed. All sensors, where you bought them and thei
 >
 >In this project I have chosen to work with the Pycom LoPy4 device as seen in Fig. 1, it's a neat little device programmed by MicroPython and has several bands of connectivity. The device has many digital and analog input and outputs and is well suited for an IoT project.
 >
->![LoPy!](https://pycom.io/wp-content/uploads/2018/08/lopySide-1.png =360x)
+>![LoPy!](https://pycom.io/wp-content/uploads/2018/08/lopySide-1.png)
 >Fig. 1. LoPy4 with headers. Pycom.io
 
 
