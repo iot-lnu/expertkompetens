@@ -17,15 +17,22 @@ https://lnu.se/utbildning/kompetensutveckling/smart-industri-digitalisering-it/t
 - [Youtube playlist Applied IoT summer -21](https://www.youtube.com/playlist?list=PL70wNv4dBdJzuVMTC3OL6YPnENS8Y7TKn)
 
 ### Staff:
-[Fredrik Ahlgren](https://lnu.se/personal/fredrik.ahlgren/), course administrator
-[Hemant Ghayvat](https://lnu.se/personal/hemant.ghayvat/)
-[Lars Håkansson](https://lnu.se/personal/lars.hakansson/)
-Christoffer Eid (Kalmar, TA)
-Mehdi Saman Azari (Växjö, TA)
+
+- [Fredrik Ahlgren](https://lnu.se/personal/fredrik.ahlgren/), course administrator
+- [Hemant Ghayvat](https://lnu.se/personal/hemant.ghayvat/)
+- [Lars Håkansson](https://lnu.se/personal/lars.hakansson/)
+- Christoffer Eid (Kalmar, TA)
+- Mehdi Saman Azari (Växjö, TA)
 
 ## Course plan.
 https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf
 
+
+## Who is this course aimed at?
+
+- You are working in the industry, within a relevant area of expertise.
+- You are keen to learn more about IoT.
+- You want to develop your own IoT-project. Getting hands-on experience.
 
 ## Expectations
 
