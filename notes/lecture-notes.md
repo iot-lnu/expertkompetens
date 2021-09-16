@@ -1,6 +1,9 @@
 # Collection of notes from meetings and lectures
 
+- When we meet. We meet. 
+
 ## Thursday 16th September
+- Pycom LoPy4. Or FiPy.
 
 - Where to find relevant information to getting started. https://github.com/iot-lnu/expertkompetens/blob/main/workshop/01-getting-started.md
 - What to think of when choosing a project.

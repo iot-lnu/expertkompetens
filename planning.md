@@ -13,7 +13,7 @@ Slut: 12/11
 - Monday 13th September. 17.00. Course introduction.
     - https://youtu.be/dogVmhTrzoA
 - Thursday 16th September. 15.15-17.00. Lecture. Getting started with HW and project. Fredrik. (live and recording)
-  - https://lnu-se.zoom.us/j/66067236437
+    - https://youtu.be/id2z80XRN8c
 #### Week 38:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Thursday 23rd September. 15.15-17.00 . Lecture, basic def. IoT. Hemant. (live and recording)
