@@ -6,9 +6,14 @@ Guides are adapted from the Pycom website. https://docs.pycom.io/gettingstarted/
 - Step 2: Setting up your computer
 - Step 3: Programming your module
 
+
 ## General recommendations
 
 Some general pointers before you are getting started.
+
+### FW
+
+Use Pybytes FW. Not legacy.
 
 #### IDE
 
