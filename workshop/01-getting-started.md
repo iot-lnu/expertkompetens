@@ -2,13 +2,23 @@
 
 Guides are adapted from the Pycom website. https://docs.pycom.io/gettingstarted/ . Make sure you first use the official documentation rather than this tutorial.
 
+micropython.org
+
+
 - Step 1: Setting up the hardware
 - Step 2: Setting up your computer
 - Step 3: Programming your module
 
+
 ## General recommendations
 
 Some general pointers before you are getting started.
+
+- USB-cable of high quality.
+
+### FW
+
+Use Pybytes FW. Not legacy.
 
 #### IDE
 
@@ -24,7 +34,6 @@ Experience is that it should work well with either Mac, Windows or Linux as the 
 
 
 ## Tutorials from the summer course 2021, made by TA:s
-
 
 - [Basic setup tutorial](https://hackmd.io/hMq4hSCJRIiwoeD2YKeILQ)
 - [Basic sensor setup](https://hackmd.io/S-2kPmXSRIGPSJAvmSwnfw)

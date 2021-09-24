@@ -13,12 +13,13 @@ Slut: 12/11
 - Monday 13th September. 17.00. Course introduction.
     - https://youtu.be/dogVmhTrzoA
 - Thursday 16th September. 15.15-17.00. Lecture. Getting started with HW and project. Fredrik. (live and recording)
-  - https://lnu-se.zoom.us/j/66067236437
+    - https://youtu.be/id2z80XRN8c
 #### Week 38:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Thursday 23rd September. 15.15-17.00 . Lecture, basic def. IoT. Hemant. (live and recording)
     - https://lnu-se.zoom.us/j/2487117289
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 #### Week 39:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Thursday 30th September. 15.15-17.00. Hardware. Hemant. (live and recording)
@@ -26,25 +27,29 @@ Slut: 12/11
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Friday 1st October 14.00. Sensors and A/D-converters. Lars Håkansson.
     - https://lnu-se.zoom.us/j/5972044484
+- Friday 16.00-16.30. Q&A. Fredrik Ahlgren. Discord.
 #### Week 40:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Physical Workshop 1: Wednesday 6/10. 14-17. Växjö and Kalmar
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 #### Week 41:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Q&A session.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 #### Week 42:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Q&A session.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 #### Week 43:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Physical Workshop 2: Wednesday 27/10. 14-17. Växjö or Kalmar.
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 #### Week 44:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 - Deadline for report. Should be handed in before Sunday 7th of November.
 #### Week 45:
 - Presentation week.
