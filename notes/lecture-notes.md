@@ -25,10 +25,8 @@
 - General discussion about your project ideas.
 
 Positionering.
-
 - LoRa EDGE LR1110. https://www.semtech.com/products/wireless-rf/lora-edge/lr1110
 - BLE beacons.
-- 
 
 
 ## Q&A 24th September 15.30-16.00
