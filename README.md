@@ -48,7 +48,7 @@ https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf
 
 The aim of the course is for you to build a connected sensor unit that provides a measured value that is presented over the internet. In the first instance, technology specific to battery-efficient IoT devices will be covered. The course is an expert competence course, aimed for you working in the industry. There will be a great deal of flexibility to tailor your learning toward your own needs. It is about your own learning and interest, you will thus have a great opportunity to manage your project according to your own wishes.
 
-The course has a practical focus and examination, which means that an IoT unit with sensors is required to be able to be examined. Material recommended according to [Bill of Material](https://coursepress.lnu.se/courses/applied-iot/02-BOM) which should be procured before the start of the course. You can use other devices, if you are unsure, please ask. The course material will be presented primarily on [Course homepage](https://github.com/iot-lnu/expertkompetens) and some code repository on [Github](https://github.com/iot-lnu).
+The course has a practical focus and examination, which means that an IoT unit with sensors is required to be able to be examined. Material recommended according to [Bill of Material](https://github.com/iot-lnu/expertkompetens/blob/main/BOM.md) which should be procured before the start of the course. You can use other devices, if you are unsure, please ask. The course material will be presented primarily on [Course homepage](https://github.com/iot-lnu/expertkompetens) and some code repository on [Github](https://github.com/iot-lnu).
 
 ### Course objectives
 
