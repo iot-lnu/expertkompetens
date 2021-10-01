@@ -30,7 +30,9 @@ Slut: 12/11
 - Friday 16.00-16.30. Q&A. Fredrik Ahlgren. Discord.
 #### Week 40:
 - Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Physical Workshop 1: Wednesday 6/10. 14-17. Växjö and Kalmar
+- Physical Workshop 1: Wednesday 6/10. 14-17 (14-15 hybrid over Discord)
+  - Växjö: Videum Science Park. Hatem.
+  - Kalmar: IoT-lab. House Magna floor 4 (CS department). Fredrik.
 - Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
 - Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 #### Week 41:
