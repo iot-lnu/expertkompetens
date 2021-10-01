@@ -34,3 +34,15 @@ Positionering.
 - Pinout diagram. https://docs.pycom.io/gitbook/assets/lopy4-pinout.pdf
 - LoRa discussions.
 - Energy consumption
+
+## Q&A 1st October 16.00-16.30
+
+- Feedback from lectures
+  - Hemant, IoT layers
+  - Lars Håkansson, sensors (swedish)
+- Next workshop. Physical in Växjö Videum science park. 14.00 - 17.00
+  - First hour 14-15 will be hybrid. You are all required to present your project ideas.
+
+Where to find us in Växjö: Videum Science Park. Silvia and Hatem will be meeting you.
+
+Where to find us in Kalmar: Kalmar Campus, House Magna floor 4. We'll meet in the IoT-lab (when you're here, it will be obvious where it is, just get to the forth floor and go as far west you can).
