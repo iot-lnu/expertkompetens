@@ -4,11 +4,9 @@ Guides are adapted from the Pycom website. https://docs.pycom.io/gettingstarted/
 
 micropython.org
 
-
 - Step 1: Setting up the hardware
 - Step 2: Setting up your computer
 - Step 3: Programming your module
-
 
 ## General recommendations
 
