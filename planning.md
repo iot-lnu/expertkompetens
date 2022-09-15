@@ -1,13 +1,21 @@
 
 ### Overall planning.
 
-Start: 13/9
-Slut: 12/11
-9 Weeks in total.
+- 10:e oktober
+- End 11:e november.
+
+5 weeks in total. That is about 16h/week.
+
 
 ## Lectures
 
 ### Live lectures:
+
+
+#### Week 41:
+- Monday 10th 
+
+
 
 #### Week 37:
 - Monday 13th September. 17.00. Course introduction.

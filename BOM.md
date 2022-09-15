@@ -17,7 +17,10 @@ MicroPython is one of the new kids in the block in IoT, which we are recommendin
 
 For years Pycom have sold their LoPy4 and FiPy-devices. Essentially an ESP32 flashed with their own fork of MicroPython, and fitted with radios for LPWAN networkls LoRaWAN and SigFox for the LoPy4, and also cellular NB-IoT/LTE CATM1 for the FiPy. Unfortunately these devices are on end-of-life and are not sold anymore, if you can get your hands on one of these they are still a solid option for being able to explore a lot of different options in the prototyping phase.
 
-The course is based upon MicroPython, and we have chosen to work with Pycom's hardware. There is a possibility to flash MicroPython on other boards as well, but that will not be covered in the course. Also, Pycom has a good PyMakr plugin for both Atom.io and VSCode.
+The course is not based upon any particular language, but we will recommend MicroPython as it is making the development process faster and is better suited for people that haven't any experience in embedded programming. We have previous years chosen to work with Pycom's hardware, but as they are now changing their product line there is a need for checking other options as well. There is a possibility to flash MicroPython on mny other boards as well. 
+
+
+
 
 
 * It's also recommended with a battery if you want to power your device away from the computer. The expansion board has a built in LiPo charger, but if you want to use non-rechargeable batteries buy a holder with a switch. **Important make sure the connector is JST-PA or JST-PH, 2 mm**
@@ -39,6 +42,12 @@ or from:
 * [Kjell.com](https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/playknowlogy-stora-modul-paketet-for-arduino-p87291)
 
 ## Recommended hardware - MicroPython boards
+
+### ESP32-based boards
+
+
+
+### Heltec devices:
 
 
 
