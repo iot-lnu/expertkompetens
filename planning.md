@@ -1,10 +1,9 @@
 
-### Overall planning.
+### General planning
 
-- 10:e oktober
-- End 11:e november.
+- 10:th October - 11:th November
 
-5 weeks in total. That is about 16h/week.
+5 weeks in total. That is about ~16h/week.
 
 
 ## Lectures
@@ -14,6 +13,12 @@
 
 #### Week 41:
 - Monday 10th 
+
+
+
+
+
+
 
 
 
