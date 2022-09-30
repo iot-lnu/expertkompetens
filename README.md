@@ -9,25 +9,30 @@ Recording of the course introduction (210913): https://youtu.be/dogVmhTrzoA
 ## Important links
 
 - [Course homepage](https://github.com/iot-lnu/expertkompetens)
-- [Discord server](https://discord.gg/WgRQyauX4d)
+- [Slack server, Courspress.slack.com](https://join.slack.com/share/enQtNDE0ODk4Njg1MDU5OC1lNzhmMTA2NTE1NjViYzA5ZDA0ODBlZWVjZGMzOWNkYTljZmVmMmUwMzM5ZTgzNmE4MzcxNTYxNzlmZWIyODYw)
 - [FAQ (live updated)](faq.md)
 - [IoT tutorial template](report-template.md)
 - [Course syllabus](https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf)
 - [Github iot-lnu](https://github.com/iot-lnu)
 - [Youtube LNU Computer Science](https://www.youtube.com/cslnu)
 - [Youtube playlist Applied IoT summer -21](https://www.youtube.com/playlist?list=PL70wNv4dBdJzuVMTC3OL6YPnENS8Y7TKn)
+- [Youtube playlist Applied IoT summer -22](https://www.youtube.com/watch?v=pEB_j0NFc74&list=PL70wNv4dBdJx2hoJxvNIUS_VPhR5QQY45)
+
+- [Discord server (used 2021)](https://discord.gg/WgRQyauX4d)
+
 
 ### Staff:
 
-- [Fredrik Ahlgren](https://lnu.se/personal/fredrik.ahlgren/), course administrator
-- [Hemant Ghayvat](https://lnu.se/personal/hemant.ghayvat/)
+- [Fredrik Ahlgren](https://lnu.se/personal/fredrik.ahlgren/), Course administrator
+- [Neda Maleki](https://lnu.se/en/staff/neda.maleki/)
+- [Arslan Musaddiq](https://lnu.se/en/staff/arslan.musaddiq/)
 - [Lars Håkansson](https://lnu.se/personal/lars.hakansson/)
+- Hamed Talebi (Kristianstad, TA)
 - Christoffer Eid (Kalmar, TA)
 - Mehdi Saman Azari (Växjö, TA)
 
 ## Course plan.
 https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf
-
 
 ## Who is this course aimed at?
 
@@ -84,7 +89,6 @@ Reading material will be handed out during the course both during lectures and a
 ## Deadlines
 
 The only deadline is the submission of the final report. Participation in workshops and live lectures are highly encouraged.
-
 
 ## Requirements for the examination
 
