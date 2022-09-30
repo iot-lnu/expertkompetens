@@ -8,7 +8,7 @@ https://lnu.se/utbildning/kompetensutveckling/smart-industri-digitalisering-it/t
 ## Important links
 
 - [Course homepage](https://github.com/iot-lnu/expertkompetens)
-- [Slack coursepress LNU **4dv119-expertkompetens-iot**](https://coursepress.slack.com/)
+- [Slack server, Courspress.slack.com](https://join.slack.com/share/enQtNDE0ODk4Njg1MDU5OC1lNzhmMTA2NTE1NjViYzA5ZDA0ODBlZWVjZGMzOWNkYTljZmVmMmUwMzM5ZTgzNmE4MzcxNTYxNzlmZWIyODYw)
 - [FAQ (live updated)](faq.md)
 - [IoT tutorial template](report-template.md)
 - [Course syllabus](https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf)
