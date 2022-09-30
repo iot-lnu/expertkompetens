@@ -4,11 +4,10 @@ https://lnu.se/utbildning/kompetensutveckling/smart-industri-digitalisering-it/t
 
 ---
 
-
 ## Important links
 
 - [Course homepage](https://github.com/iot-lnu/expertkompetens)
-- [Slack server, Courspress.slack.com](https://join.slack.com/share/enQtNDE0ODk4Njg1MDU5OC1lNzhmMTA2NTE1NjViYzA5ZDA0ODBlZWVjZGMzOWNkYTljZmVmMmUwMzM5ZTgzNmE4MzcxNTYxNzlmZWIyODYw)
+- [Discord server](https://discord.gg/eXq6VnBETq)
 - [FAQ (live updated)](faq.md)
 - [IoT tutorial template](report-template.md)
 - [Course syllabus](https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf)
@@ -16,6 +15,9 @@ https://lnu.se/utbildning/kompetensutveckling/smart-industri-digitalisering-it/t
 - [Youtube LNU Computer Science](https://www.youtube.com/cslnu)
 - [Youtube playlist Applied IoT summer -21](https://www.youtube.com/playlist?list=PL70wNv4dBdJzuVMTC3OL6YPnENS8Y7TKn)
 - [Youtube playlist Applied IoT summer -22](https://www.youtube.com/watch?v=pEB_j0NFc74&list=PL70wNv4dBdJx2hoJxvNIUS_VPhR5QQY45)
+
+- [Slack server, Courspress.slack.com](https://join.slack.com/share/enQtNDE0ODk4Njg1MDU5OC1lNzhmMTA2NTE1NjViYzA5ZDA0ODBlZWVjZGMzOWNkYTljZmVmMmUwMzM5ZTgzNmE4MzcxNTYxNzlmZWIyODYw)
+
 
 ### Staff:
 
