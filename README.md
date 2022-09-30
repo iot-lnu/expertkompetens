@@ -70,15 +70,10 @@ After completing the course, the students should:
 ## Communication strategy
 
 - Try to have only, *personal* questions regarding formal participation in the course, absence, grades are sent via email to the course coordinator [Fredrik Ahlgren](fredrik.ahlgren@lnu.se). Please help to maintain the e-mails to a minimum.
-- Please post all questions in a public channel at the Discord server. This is because we want to minimize the amount of direct messages (DM:s).
-- Questions about the course, assignments, examination, schedule, are asked at **Discord**.
-- Information regarding the course will be posted in the ``course-announcements`` channel in the Discord server **It is _important_ that you read everything that is `Pinned`.**
-- Respond to **all** `Pinned posts` on Discord.
-- You can filter all *`Pinned posts`* according to the figure below.
-
-![](https://i.imgur.com/GuCyni4.png)
-
-![](https://i.imgur.com/N5wdBAH.png)
+- Please post all questions in a public channel at the Slack server. This is because we want to minimize the amount of direct messages (DM:s).
+- Questions about the course, assignments, examination, schedule, are asked at **Slack**.
+- Information regarding the course will be posted in the in the Slack server **It is _important_ that you read everything that is `Pinned`.**
+- Please respond with an emoji to all `Pinned posts`.
 
 The course lectures and materials will be in *English*. Please keep all public discussions in English, even though you might be speaking your native language. We really need to make everyone feel included.
 
