@@ -24,8 +24,9 @@ https://lnu.se/utbildning/kompetensutveckling/smart-industri-digitalisering-it/t
 - [Fredrik Ahlgren](https://lnu.se/personal/fredrik.ahlgren/), course administrator
 - [Neda Maleki](https://lnu.se/en/staff/neda.maleki/)
 - [Arslan Musaddiq](https://lnu.se/en/staff/arslan.musaddiq/)
-- [Hemant Ghayvat](https://lnu.se/personal/hemant.ghayvat/)
 - [Lars Håkansson](https://lnu.se/personal/lars.hakansson/)
+- Hamed Talebi, Teaching Assistant
+- Christoffer Eid, Teaching Assistant
 
 ## Course plan.
 https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf
