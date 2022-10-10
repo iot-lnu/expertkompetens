@@ -34,8 +34,6 @@ Make sure you create a public repository and also that you write the report in t
 
 Check out this link: [Good examples from previous summer courses](https://hackmd.io/@lnu-iot/good-examples)
 
-
-
 ----
 
 Some additional examples for inspiration.
@@ -47,7 +45,6 @@ Some additional examples for inspiration.
 - [Distance sensor](https://community.mydevices.com/t/nodemcu-esp8266-hc-sr04/2872)
 
 ---
-
 
 # Template
 
@@ -61,7 +58,7 @@ What needs to be included:
 - [ ] Title
 - [ ] Your name and student credentials (xx666xxx)
 - [ ] Short project overview
-- [ ] How much time it might take to do (approximation)
+- [ ] How much time it might take to do (an approximation)
 
 ### Objectives
 
@@ -98,6 +95,7 @@ How is the device programmed. Which IDE are you using. Describe all steps from f
 
 - [ ] Chosen IDE
 - [ ] How the code is uploaded
+- [ ] How is your project structured (important)
 - [ ] Steps that you needed to do for your computer. Installation of Node.js, extra drivers, etc.
 
 ### Putting everything together
@@ -138,7 +136,6 @@ s.send(package)
 ### The physical network layer
 
 How is the data transmitted to the internet or local server? Describe the package format. All the different steps that are needed in getting the data to your end-point. Explain both the code and choice of wireless protocols.
-
 
 - [ ] How often is the data sent? 
 - [ ] Which wireless protocols did you use (WiFi, LoRa, etc ...)?
