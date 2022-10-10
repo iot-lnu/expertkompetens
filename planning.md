@@ -10,73 +10,32 @@
 
 ### Live lectures:
 
+
+No date (yet):
+- Sensors and A/D-converters. Lars Håkansson.
+- Mesh networks Arslan Musaddiq.
+- Fog computing and edge computing. Neda Maleki.
+
 #### Week 41:
 - Monday 10th October 15:00-16:00
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 
 #### Week 42:
+- Project presentation, online. Obligatory. TBD.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 
 #### Week 43:
-
 - Fredrik is on vacation.
 
 #### Week 44:
-
-
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
 
 #### Week 45:
+- Project presentation, online. Obligatory. TBD.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
+- 20th November. Deadline for project report.
 
 
-
-
-
-
-#### Week 37:
-- Monday 13th September. 17.00. Course introduction.
-    - https://youtu.be/dogVmhTrzoA
-- Thursday 16th September. 15.15-17.00. Lecture. Getting started with HW and project. Fredrik. (live and recording)
-    - https://youtu.be/id2z80XRN8c
-#### Week 38:
-- Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Thursday 23rd September. 15.15-17.00 . Lecture, basic def. IoT. Hemant. (live and recording)
-    - https://lnu-se.zoom.us/j/2487117289
-- Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
-#### Week 39:
-- Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Thursday 30th September. 15.15-17.00. Hardware. Hemant. (live and recording)
-    - https://lnu-se.zoom.us/j/2487117289
-- Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Friday 1st October 14.00. Sensors and A/D-converters. Lars Håkansson.
-    - https://lnu-se.zoom.us/j/5972044484
-- Friday 16.00-16.30. Q&A. Fredrik Ahlgren. Discord.
-#### Week 40:
-- Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Physical Workshop 1: Wednesday 6/10. 14-17 (14-15 hybrid over Discord)
-  - Växjö: Videum Science Park. Hatem.
-  - Kalmar: IoT-lab. House Magna floor 4 (CS department). Fredrik.
-- Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
-#### Week 41:
-- Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
-#### Week 42:
-- Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
-#### Week 43:
-- Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Physical Workshop 2: Wednesday 27/10. 14-17. Växjö or Kalmar.
-- Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
-#### Week 44:
-- Tuesday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Thursday 17.00-18.00. Online workshop. Christoffer Eid. Discord.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
-- Deadline for report. Should be handed in before Sunday 7th of November.
-#### Week 45:
-- Presentation week.
-  - Wednesday 10th November, 17-19. Final presentations of the course, Zoom-link TBA.
 
 ### Recordings
 
@@ -115,10 +74,6 @@ https://coursepress.lnu.se/courses/applied-iot/03-planning
 
 Getting started videos, (2020):
 - https://youtube.com/playlist?list=PL70wNv4dBdJwLUfvh3Dtca24fC_p2xZUJ
-
-
-
-
 
 
 ## Presentation sessions and workshops
