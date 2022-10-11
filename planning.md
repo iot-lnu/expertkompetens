@@ -97,5 +97,5 @@ Workshops will be held online on the Discord-server, every week.
 
 We are having two project presentations. These sessions are obligatory, so please plan to attend.
 
-  - Workshop 1: Present your project and status. W42. TBD
-  - Workshop 2: Project presentation. W45. TBD 
+  - Workshop 1: Present your project and status. W42. Thursday 20th October, 14.00-16.30. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
+  - Workshop 2: Project presentation. W45. Wednesday 9th November 14.00-16.00. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
