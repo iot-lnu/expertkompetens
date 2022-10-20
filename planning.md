@@ -18,24 +18,21 @@ No date (yet):
 
 #### Week 41:
 - Monday 10th October 15:00-16:00
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
 
 #### Week 42:
-- Project presentation, online. Obligatory. TBD.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
+- Project presentation, online. Thursday 20th Oct. 14-16. (Zoom)[https://lnu-se.zoom.us/j/62973599700] Obligatory.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. (Zoom)[https://lnu-se.zoom.us/j/62973599700].
 
 #### Week 43:
 - Fredrik is on vacation.
 
 #### Week 44:
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
+- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. (Zoom)[https://lnu-se.zoom.us/j/62973599700].
 
 #### Week 45:
-- Project presentation, online. Obligatory. TBD.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. Discord.
+- Final project presentation, Friday 11th November. (Zoom)[https://lnu-se.zoom.us/j/62973599700]. Obligatory. 
 - 20th November. Deadline for project report.
-
-
 
 ### Recordings
 
@@ -98,4 +95,4 @@ Workshops will be held online on the Discord-server, every week.
 We are having two project presentations. These sessions are obligatory, so please plan to attend.
 
   - Workshop 1: Present your project and status. W42. Thursday 20th October, 14.00-16.30. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
-  - Workshop 2: Project presentation. W45. Wednesday 9th November 14.00-16.00. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
+  - Workshop 2: Project presentation. W45. Friday 11th November 09.00-12.00. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
