@@ -38,6 +38,7 @@ No date (yet):
 
 #### 2022:
 
+- [Everything you need to know about LoRa - recommended](https://www.youtube.com/watch?v=ZsVhYiX4_6o)
 - [Connectivity in IoT 1/1 Marco](https://youtu.be/uUVKWt4NKUo)
 - [LoRa how to go far with IoT 2/2 Marco](https://www.youtube.com/watch?v=Wbas04ouRdk)
 - [Energy in IoT](https://youtu.be/o5RQyGwuLqw)
