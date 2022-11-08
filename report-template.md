@@ -102,7 +102,7 @@ How is the device programmed. Which IDE are you using. Describe all steps from f
 
 How is all the electronics connected? Describe all the wiring, good if you can show a circuit diagram. Be specific on how to connect everything, and what to think of in terms of resistors, current and voltage. Is this only for a development setup or could it be used in production?
 
-- [ ] Circuit diagram (can be hand drawn)
+- [ ] Circuit diagram (can be hand drawn) (Fritzing, Tinkercad, etc.)
 - [ ] Electrical calculations
 - [ ] Limitations of hardware depending on design choices.
 - [ ] Discussion about a way forward - is it possible to scale?
