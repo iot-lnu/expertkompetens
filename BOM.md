@@ -19,18 +19,38 @@ For years Pycom have sold their LoPy4 and FiPy-devices. Essentially an ESP32 fla
 
 The course is not based upon any particular language, but we will recommend MicroPython as it is making the development process faster and is better suited for people that haven't any experience in embedded programming. We have previous years chosen to work with Pycom's hardware, but as they are now changing their product line there is a need for checking other options as well. There is a possibility to flash MicroPython on mny other boards as well. 
 
+## Recommended hardware - MicroPython boards
+
+### ESP32-based boards
+
+### Heltec devices.
+
+We have succesfully used the Heltec in previous courses. They are good as they provide a cheap way of combining both LoRa, WiFi and an ESP32. Remember to buy a 868MHz version (for the EU market).
+
+[Heltec WiFi LoRa 32](https://heltec.org/project/wifi-lora-32-v3/)
+
+Can be found on [Amazon](https://www.amazon.se/Diymore-utvecklingskort-tr%C3%A5dl%C3%B6s-OLED-sk%C3%A4rm-CP2102/dp/B0BGY69RCK/ref=sr_1_6?crid=1ZDLGDJLGMYKJ&keywords=heltec%2Blora&qid=1708000132&sprefix=heltec%2Blora%2Caps%2C113&sr=8-6&th=1) if you just search for it.
 
 
+You can also buy any ESP32 device, and then just add a LoRaWAN module.
+
+https://www.electrokit.com/?s=esp32&post_type=product&lang=sv
+
+### Raspberry Pico Wireless
+
+The RPi Pico WH (Wireless with Headers) is a great little device. Everyone should have one.
+
+You will find it for a small sum at [Electrokit](https://www.electrokit.com/produkt/raspberry-pi-pico-wh/). Just remember to buy the Wireless version (W) and add Headers if you don't want to solder them yourself. 
 
 
-* It's also recommended with a battery if you want to power your device away from the computer. The expansion board has a built in LiPo charger, but if you want to use non-rechargeable batteries buy a holder with a switch. **Important make sure the connector is JST-PA or JST-PH, 2 mm**
+### Adding LoRaWAN
 
-Wiki: [JST connectors](https://en.wikipedia.org/wiki/JST_connector)
+We have succesfully used the [M5 Stack LoRaWAN module](https://shop.m5stack.com/products/lorawan-unit-868mhz-asr6501-with-antenna?variant=39729095442604) which also can be found on [elfa.se](https://www.elfa.se/en/asr6501-868mhz-lorawan-communications-unit-with-antenna-m5stack-u117/p/30221929?ext_cid=shgooaqsesv-Shopping-PerformanceMax-CSS&cq_src=google_ads&cq_cmp=20378176311&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gad_source=1&gclid=CjwKCAiAibeuBhAAEiwAiXBoJEq6xuFNk34LZ-2i71u0MnRe2rdGEu2BOokFcg4HnlMjPn_-zIs99hoC6WcQAvD_BwE&gclsrc=aw.ds) 
 
-  * [Batterihållare AAA](https://www.electrokit.com/produkt/batterihallare-3xaaa-med-strombrytare-och-jst-kontakt/)
 
-  The expansion board has a built in LiPo-charger, so the best is to buy a LiPo-battery with JST-connection:
-  * [LiPy battery JST](https://www.electrokit.com/produkt/batteri-lipo-3-7v-4400mah/)
+## Adding extras .... 
+
+* [Batterihållare AAA](https://www.electrokit.com/produkt/batterihallare-3xaaa-med-strombrytare-och-jst-kontakt/)
 
 We also recommend buying a **sensor-kit**, as the bundles above are just the bare basics:
 
@@ -40,52 +60,3 @@ or from:
 
 * [amazon.de](https://www.amazon.de/Elegoo-aufger%C3%BCsteter-Sensormodul-Bausatz-Anleitung/dp/B01M30ZWQR/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=sensor+kit+arduino&qid=1583957059&sr=8-5)
 * [Kjell.com](https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/playknowlogy-stora-modul-paketet-for-arduino-p87291)
-
-## Recommended hardware - MicroPython boards
-
-### ESP32-based boards
-
-
-
-### Heltec devices:
-
-
-
-
-### Pycom devices:
-
-- [LoPy4 (With headers)](https://pycom.io/product/lopy4/)
-- [FiPy](https://pycom.io/product/fipy/) if you want to make use of LTE/NB-IoT*
-* [Expansion board 3.0](https://pycom.io/product/expansion-board-3-0/)
-* [LoRa/SigFox antenna](https://pycom.io/product/lora-868mhz-915mhz-sigfox-antenna-kit/)
-
-* Micro USB cable (you probably already have some lying around). Make sure it's of high quality and can transfer data.
-
-### You will also need sensors:
-
-You can choose from a variety of sensors depending on what you want to develop in the course. If you are unsure, please pick just a start kit for Arduino (3.3V).
-
-- Sensors of your choice. I recommend a starting kit from either [amazon.de](https://www.amazon.de/Elegoo-aufger%C3%BCsteter-Sensormodul-Bausatz-Anleitung/dp/B01M30ZWQR/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=sensor+kit+arduino&qid=1583957059&sr=8-5) for ~30 EUR, or from Swedish distributor [Kjell.com](https://www.kjell.com/se/produkter/el-verktyg/arduino/moduler/playknowlogy-stora-modul-paketet-for-arduino-p87291) or
-[Electrokit](https://www.electrokit.com/produkt/sensor-kit-26-moduler/)
-
-Wiring and breadboards:
-
-- [Starting kit for Arduino Kjell.com](https://www.kjell.com/se/produkter/el-verktyg/arduino/arduino-kit/luxorparts-basic-start-kit-for-arduino-p90632) or [breadboard(s) from Amazon](https://www.amazon.de/Elegoo-Breadboard-Solderless-Distribution-Verbindungsbl%C3%B6cke/dp/B01MCRZFE5/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3L86WOJGVV8CB&keywords=breadboard&qid=1583957299&sprefix=breadboard%2Caps%2C282&sr=8-3) and [Dupont cables](https://www.amazon.de/Female-Female-Male-Female-Male-Male-Steckbr%C3%BCcken-Drahtbr%C3%BCcken-bunt/dp/B01EV70C78/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=dupont+cable&qid=1584042669&sr=8-3).
-
-
-# Pycom.io
-
-You can buy these directly from Pycom.io, but it's recommended to buy from a Swedish distributor in first hand as the shipping might be both cheaper and faster.
-
-* [LoPy4 (With headers)](https://pycom.io/product/lopy4/)
-* [Expansion board 3.0](https://pycom.io/product/expansion-board-3-0/)
-* [LoRa/SigFox antenna](https://pycom.io/product/lora-868mhz-915mhz-sigfox-antenna-kit/)
-
-### Choice of LTE and NB-IoT
-
-If you want cellular connection/LTE as well, the **FiPy4** is the way to go (in that case, replace **LoPy4 with FiPy**). It's a bit more expensive, but does the same thing as LoPy4 with added benefit of LTE/NB IoT as well.
-
-- [FiPy](https://pycom.io/product/fipy/)
-- [Expansion board 3.0](https://pycom.io/product/expansion-board-3-0/)
-- [LTE antenna](https://pycom.io/product/lte-m-antenna-kit/),
-- [LoRa/SigFox antenna](https://pycom.io/product/lora-868mhz-915mhz-sigfox-antenna-kit/),

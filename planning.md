@@ -1,38 +1,30 @@
 
-### General planning
+### General planning 2024
 
-- 10:th October - 11:th November
+- 15:th March - 19:th April
 
-5 weeks in total. That is about ~16h/week.
+6 weeks in total. That is about ~14h/week.
 
+## Lectures/seminars
 
-## Lectures
+#### Week 10:
+- Monday 10th October 15:00-16:00 Course introduction. 
 
-### Live lectures:
+#### Week 11:
+- Wednesday 15.15-16.30. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]
 
+#### Week 12:
+- Wednesday 15.15-16.30. Present your project and status. (Zoom)[https://lnu-se.zoom.us/j/66906874916]
 
-No date (yet):
-- Sensors and A/D-converters. Lars Håkansson.
-- Mesh networks Arslan Musaddiq.
-- Fog computing and edge computing. Neda Maleki.
+#### Week 13:
+- Wednesday 15.15-16.30. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]
 
-#### Week 41:
-- Monday 10th October 15:00-16:00
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
+#### Week 14:
+- Wednesday 15.15-16.30. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]
 
-#### Week 42:
-- Project presentation, online. Thursday 20th Oct. 14-16. (Zoom)[https://lnu-se.zoom.us/j/62973599700] Obligatory.
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. (Zoom)[https://lnu-se.zoom.us/j/62973599700].
-
-#### Week 43:
-- Fredrik is on vacation.
-
-#### Week 44:
-- Friday 15.30-16.00. Q&A. Fredrik Ahlgren. (Zoom)[https://lnu-se.zoom.us/j/62973599700].
-
-#### Week 45:
-- Final project presentation, Friday 11th November. (Zoom)[https://lnu-se.zoom.us/j/62973599700]. Obligatory. 
-- 20th November. Deadline for project report.
+#### Week 16:
+- Project Presentations. 15.15-16.30. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]. Obligatory.
+- Friday 19th April. Deadline for project report.
 
 ### Recordings
 
@@ -84,16 +76,4 @@ There is also an opportunity to visit the labs in both Växjö and Kalmar, and d
 
 ### Online workshops
 
-Workshops will be held online on the Discord-server, every week.
-
-    - Tuesday TBD Online workshop. Discord.
-    - Thursday TBD. Online workshop. Discord.
-
-- Hamed and Christoffer (TA's) are responsible for the basic workshops.
-
-### Presentations and project discussions
-
-We are having two project presentations. These sessions are obligatory, so please plan to attend.
-
-  - Workshop 1: Present your project and status. W42. Thursday 20th October, 14.00-16.30. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
-  - Workshop 2: Project presentation. W45. Friday 11th November 09.00-12.00. (Zoom)[https://lnu-se.zoom.us/j/62973599700]
+Workshops will be held online on the Discord-server, every week. Planning will be on request.
