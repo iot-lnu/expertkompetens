@@ -28,6 +28,14 @@
 
 ### Recordings
 
+#### 2023:
+
+- [Getting started ... playlist 2023](https://youtube.com/playlist?list=PL70wNv4dBdJxh0lJjnLlQjqh9rshaht6X&si=LX0dg3h8EanXoSjb)
+- [MQTT PubSub](https://www.youtube.com/live/3VXDPiDmSog?si=7U4ikgXhx7O75Jqe)
+- [Energy and IoT](https://www.youtube.com/live/o5RQyGwuLqw?si=D_EjXBXfvi9In6Km)
+- [Future of TinyML](https://www.youtube.com/live/psyCsRDKL0I?si=e8E6s25nYHGhLxRw)
+
+
 #### 2022:
 
 - [Everything you need to know about LoRa - recommended](https://www.youtube.com/watch?v=ZsVhYiX4_6o)

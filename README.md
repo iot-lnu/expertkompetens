@@ -10,7 +10,7 @@ https://github.com/iot-lnu/expertkompetens
 ## Important links
 
 - [Course homepage](https://github.com/iot-lnu/expertkompetens)
-- [Discord server](https://discord.gg/eXq6VnBETq)
+- [Discord server](https://discord.gg/k7ewMrRWU7)
 - [FAQ (live updated)](faq.md)
 - [IoT tutorial template](report-template.md)
 - [Course syllabus](https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf)
@@ -18,15 +18,15 @@ https://github.com/iot-lnu/expertkompetens
 - [Youtube LNU Computer Science](https://www.youtube.com/cslnu)
 - [Youtube playlist Applied IoT summer -21](https://www.youtube.com/playlist?list=PL70wNv4dBdJzuVMTC3OL6YPnENS8Y7TKn)
 - [Youtube playlist Applied IoT summer -22](https://www.youtube.com/watch?v=pEB_j0NFc74&list=PL70wNv4dBdJx2hoJxvNIUS_VPhR5QQY45)
+- [Youtube playlist Applied IoT summer - 23](https://www.youtube.com/playlist?list=PL70wNv4dBdJxh0lJjnLlQjqh9rshaht6X)
 
 ### Staff:
 
 - [Fredrik Ahlgren](https://lnu.se/personal/fredrik.ahlgren/), course administrator
 - [Neda Maleki](https://lnu.se/en/staff/neda.maleki/)
 - [Arslan Musaddiq](https://lnu.se/en/staff/arslan.musaddiq/)
-- [Lars Håkansson](https://lnu.se/personal/lars.hakansson/)
-- Hamed Talebi, Teaching Assistant
-- Christoffer Eid, Teaching Assistant
+- [Oxana Lundström](https://lnu.se/personal/oxana.lundstrom/)
+- [David Mozart](https://lnu.se/en/staff/david.mozart/)
 
 ## Course plan.
 https://kursplan.lnu.se/kursplaner/syllabus-4DV119-1.pdf
@@ -66,11 +66,8 @@ After completing the course, the students should:
 ## Communication strategy
 
 - Try to have only, *personal* questions regarding formal participation in the course, absence, grades are sent via email to the course coordinator [Fredrik Ahlgren](fredrik.ahlgren@lnu.se). Please help to maintain the e-mails to a minimum.
-- Please post all questions in a public channel at the Slack server. This is because we want to minimize the amount of direct messages (DM:s).
-- Questions about the course, assignments, examination, schedule, are asked at **Slack**.
-- Information regarding the course will be posted in the ``course-announcements`` channel in the Slack server **It is _important_ that you read everything that is `Pinned`.**
-- Respond to **all** `Pinned posts` on Slack.
-- You can filter all *`Pinned posts`* according to the figure below.
+- Please post all questions in the - [Discord server](https://discord.gg/k7ewMrRWU7). This is because we want to minimize the amount of direct messages (DM:s).
+- Questions about the course, assignments, examination, schedule, are asked at the [Discord server](https://discord.gg/k7ewMrRWU7).
 
 The course lectures and materials will be in *English*. Please keep all public discussions in English if unsure if not all are speaking Swedish. We really need to make everyone feel included.
 
