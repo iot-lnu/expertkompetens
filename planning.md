@@ -7,6 +7,9 @@
 
 ## Lectures/seminars
 
+TimeTable: https://cloud.timeedit.net/lnu/web/schema1/ri1Y7X0QQ9wZ16Qv750Q3855yYY79Z.html
+
+
 #### Week 10:
 - Monday 10th October 15:00-16:00 Course introduction. 
 
