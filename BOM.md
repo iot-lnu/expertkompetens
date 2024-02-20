@@ -29,7 +29,7 @@ We have succesfully used the Heltec in previous courses. They are good as they p
 
 [Heltec WiFi LoRa 32](https://heltec.org/project/wifi-lora-32-v3/)
 
-Can be found on [Amazon](https://www.amazon.se/Diymore-utvecklingskort-tr%C3%A5dl%C3%B6s-OLED-sk%C3%A4rm-CP2102/dp/B0BGY69RCK/ref=sr_1_6?crid=1ZDLGDJLGMYKJ&keywords=heltec%2Blora&qid=1708000132&sprefix=heltec%2Blora%2Caps%2C113&sr=8-6&th=1) if you just search for it.
+Can be found on [Amazon](https://www.amazon.se/Diymore-dubbelk%C3%A4rnig-Bluetooth-utvecklingskort-863MHZ-928MHz/dp/B0BJF6G67Z/ref=sr_1_2?crid=124M5YJK6B22A&dib=eyJ2IjoiMSJ9.wBzd0hr5_DICGTGSjjBHUMnH2pthOcgJYdoNr1gDojF80915Pd3OIVO6OUqQvcfhkXNrD3pQMbhtvJaKlFsoFJ28Zq-xdIktL3PGxLec-72xJSnOQLXbG-ixLE1wqsAEm6zRcA9ZU-uF3UkeqL6yYraPqfCj3RqG61EuP0AkCJSyDNzuScU0CuMK9IXKn979MuZVwufE0Zw5C0ZBwie6U0_I1Jf6XcOWS5dnd97FdKklJDE5RbOg9GBG_fVDKgdTzmIn21YdmJpGcGqSQ3yzz-47lQkNrNd_XagokeCGAsU.E4NrX8IzsAh1BI7OO5YBnd4vg1OhHWkF09ma2gkEkt4&dib_tag=se&keywords=heltec+lora+v3&qid=1708424591&sprefix=heltec%2Blora%2Caps%2C91&sr=8-2) if you just search for it.
 
 
 You can also buy any ESP32 device, and then just add a LoRaWAN module.
