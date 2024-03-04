@@ -9,7 +9,7 @@ https://github.com/iot-lnu/expertkompetens
 
 ## Important links
 
-- [TimeTable]](https://cloud.timeedit.net/lnu/web/schema1/ri1Y7X6QQYwZ86QvQ5076385y1Y95Z7.html)
+- [TimeTable](https://cloud.timeedit.net/lnu/web/schema1/ri1Y7X6QQYwZ86QvQ5076385y1Y95Z7.html)
 - [Course homepage](https://github.com/iot-lnu/expertkompetens)
 - [Discord server](https://discord.gg/k7ewMrRWU7)
 - [FAQ (live updated)](faq.md)
