@@ -25,9 +25,18 @@ TimeTable: https://cloud.timeedit.net/lnu/web/schema1/ri1Y7X0QQ9wZ16Qv750Q3855yY
 #### Week 14:
 - Wednesday 15.15-16.30. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]
 
+#### Week 15:
+
+Work week ... 
+
 #### Week 16:
-- Project Presentations. 15.15-16.30. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]. Obligatory.
-- Friday 19th April. Deadline for project report.
+
+- Monday 15.00-1630. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]
+
+#### Week 18:
+
+- Project Presentations Monday 29th april. 13.00-14.30. Lecture / Seminar. (Zoom)[https://lnu-se.zoom.us/j/66906874916]. Obligatory.
+- Friday 3e May. Deadline for project report.
 
 ### Recordings
 
